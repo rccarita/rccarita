@@ -135,7 +135,7 @@
 
 <div align="center">
 <a href="https://github.com/Caritaj">
-  <img height="180em" width="380px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caritaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="380px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Caritaj&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="380px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rccarita&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="380px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rccarita&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
